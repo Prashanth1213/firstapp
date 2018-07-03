@@ -2,7 +2,7 @@
 <record_update table="sys_ui_script">
     <sys_ui_script action="INSERT_OR_UPDATE">
         <active>true</active>
-        <description/>
+        <description>test app</description>
         <global>false</global>
         <name>x_64911_angular_ap.app</name>
         <script><![CDATA[angular.module('angularapp',[]);
@@ -22,14 +22,14 @@ angular.module('angularapp').controller('AngularAppCtrl', function($scope){
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-03-27 15:08:42</sys_created_on>
         <sys_id>6d3849aa4f8113001cb17e918110c778</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>x_64911_angular_ap.app</sys_name>
         <sys_package display_value="Angular App" source="x_64911_angular_ap">df31cd6a4f0113001cb17e918110c753</sys_package>
         <sys_policy/>
         <sys_scope display_value="Angular App">df31cd6a4f0113001cb17e918110c753</sys_scope>
         <sys_update_name>sys_ui_script_6d3849aa4f8113001cb17e918110c778</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-30 10:03:18</sys_updated_on>
+        <sys_updated_on>2018-07-03 09:41:39</sys_updated_on>
         <use_scoped_format>false</use_scoped_format>
     </sys_ui_script>
 </record_update>
